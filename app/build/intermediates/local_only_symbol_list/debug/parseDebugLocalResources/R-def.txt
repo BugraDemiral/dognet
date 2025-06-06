@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+color colorPrimary
+color colorSecondary
+mipmap ic_launcher
+string app_name
+string breed_list_title
+string error_loading_breeds
+string error_loading_images
+string image_grid_title
+string loading
+style Theme.DogNet
