@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DogNet</string>
+    <string name="breed_list_title">Dog Breeds</string>
+    <string name="image_grid_title">Images:</string>
+    <string name="loading">Loading…</string>
+    <string name="error_loading_breeds">Failed to load breeds.</string>
+    <string name="error_loading_images">Failed to load images.</string>
+    <string name="search_breeds">Search breeds…</string>
+</resources>
